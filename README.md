@@ -14,8 +14,8 @@ This Firefox extension replaces occurrences of the word "Путин" and its inf
 
 1. **Clone or download this repository:**
    ```bash
-   git clone https://github.com/yourusername/huilo-mode.git
-   cd huilo-mode
+   git clone https://github.com/yourusername/huilo-mode-firefox.git
+   cd huilo-mode-firefox
    ```
 2. **Open Firefox and go to the Extensions page:**
    - In the address bar, type `about:debugging#/runtime/this-firefox`
@@ -41,8 +41,8 @@ This Firefox extension replaces occurrences of the word "Путин" and its inf
 
 1. **Клонируйте или скачайте этот репозиторий:**
    ```bash
-   git clone https://github.com/yourusername/huilo-mode.git
-   cd huilo-mode
+   git clone https://github.com/yourusername/huilo-mode-firefox.git
+   cd huilo-mode-firefox
    ```
 2. **Откройте Firefox и перейдите на страницу расширений:**
    - В адресной строке введите `about:debugging#/runtime/this-firefox`
